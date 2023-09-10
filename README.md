@@ -2,6 +2,8 @@
 
 This project is a simple and visually captivating representation of a city skyline that transitions between day and night, creating a dynamic and atmospheric effect. The project uses HTML and CSS to create a charming cityscape that changes colors and lighting as the day progresses.
 
+![ezgif com-optimize](https://github.com/KhangMBui/City-Skyline/assets/114207962/528d868e-e0b6-4eb9-90e4-0ad4976817be)
+
 ## Project Files
 
 - `citySkyline.html`: This HTML file contains the structure of the city skyline, including the building layout and window configurations.
@@ -17,7 +19,7 @@ This project is a simple and visually captivating representation of a city skyli
 ## How to Use
 
 1. Clone the repository to your local machine using Git or download the ZIP file.
-- git clone [https://github.com/yourusername/changing-city-skyline.git](https://github.com/KhangMBui/City-Skyline.git)https://github.com/KhangMBui/City-Skyline.git
+- git clone (https://github.com/KhangMBui/City-Skyline.git)
 2. Open the project folder:
 - cd changing-city-skyline
 3. Open the `citySkyline.html` file in your web browser to view the changing city skyline.
@@ -39,4 +41,3 @@ This project was created by Khang Bui, with the instruction of freeCodeCamp, as 
 
 Enjoy exploring the changing city skyline!
 
-![City Skyline](screenshot.png)
